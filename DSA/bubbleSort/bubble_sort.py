@@ -1,4 +1,4 @@
-__author__= "Mamadou WONE"
+__author__= "Mamadou WONE :)"
 my_array = [20, 35, -15, 7, 55, 1, -22]
 
 def swap(int_array, i, j):
