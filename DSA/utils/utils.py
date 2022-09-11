@@ -40,7 +40,7 @@ class Utils:
             temp = number % 10
             number = int(number / 10)
             tab.append(temp)
-        for i in range(len(tab) - 1, -1, -1):
-            result = tab[i]
-            print(result)
+        # for i in range(len(tab) - 1, -1, -1):
+        #     result = tab[i]
+        #     print(result)
         return tab
